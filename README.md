@@ -1,0 +1,2 @@
+# premium-vari-speed-001-vari-speed-drive-reeves-setu
+Tired of losing track of pulley ratios, motor specs, and maintenance logs for your vari-speed drives? This Notion template turns your Reeves setup chaos into a streamlined craft studio command center.  The Vari Speed Drive &amp; Reeves Setup Craft Studio template centralizes all your variable speed drive data, from pulley dimensions to wiring diagrams.
